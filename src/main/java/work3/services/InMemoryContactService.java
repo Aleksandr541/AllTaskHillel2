@@ -1,8 +1,8 @@
-package org.example.capp.services;
+package work3.services;
 
-import org.example.capp.models.Contact;
-import org.example.capp.models.ContactsList;
-import org.example.capp.utils.ListUtils;
+import work3.models.Contact;
+import work3.models.ContactsList;
+import work3.utils.ListUtils;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package org.example.capp.models;
+package work3.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

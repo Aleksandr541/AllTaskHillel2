@@ -1,8 +1,8 @@
-package org.example.capp.menu.item;
+package work3.menu.item;
 
 import lombok.RequiredArgsConstructor;
-import org.example.capp.menu.MenuAction;
-import org.example.capp.services.ContactsService;
+import work3.menu.MenuAction;
+import work3.services.ContactsService;
 
 import java.util.Scanner;
 

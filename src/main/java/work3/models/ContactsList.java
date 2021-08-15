@@ -1,6 +1,6 @@
-package org.example.capp.models;
+package work3.models;
 
-import org.example.capp.exceptions.IncorrectDataException;
+import work3.exceptions.IncorrectDataException;
 
 import java.util.Arrays;
 import java.util.Iterator;

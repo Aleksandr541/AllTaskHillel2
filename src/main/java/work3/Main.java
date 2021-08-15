@@ -1,13 +1,13 @@
-package org.example.capp;
+package work3;
 
-import org.example.capp.menu.Menu;
-import org.example.capp.menu.MenuAction;
-import org.example.capp.menu.item.AddContactMenuAction;
-import org.example.capp.menu.item.ReadAllContact;
-import org.example.capp.menu.item.RemoveContactMenuAction;
-import org.example.capp.menu.item.SearchingForContact;
-import org.example.capp.services.ContactsService;
-import org.example.capp.services.InMemoryContactService;
+import work3.menu.Menu;
+import work3.menu.MenuAction;
+import work3.menu.item.AddContactMenuAction;
+import work3.menu.item.ReadAllContact;
+import work3.menu.item.RemoveContactMenuAction;
+import work3.menu.item.SearchingForContact;
+import work3.services.ContactsService;
+import work3.services.InMemoryContactService;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,10 +1,10 @@
-package org.example.capp.menu.item;
+package work3.menu.item;
 
 import lombok.RequiredArgsConstructor;
-import org.example.capp.menu.MenuAction;
-import org.example.capp.models.Contact;
-import org.example.capp.models.ContactsList;
-import org.example.capp.services.ContactsService;
+import work3.menu.MenuAction;
+import work3.models.Contact;
+import work3.models.ContactsList;
+import work3.services.ContactsService;
 
 @RequiredArgsConstructor
 public class ReadAllContact implements MenuAction {

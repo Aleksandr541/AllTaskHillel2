@@ -1,6 +1,6 @@
-package org.example.capp.utils;
+package work3.utils;
 
-import org.example.capp.models.ContactsList;
+import work3.models.ContactsList;
 
 import java.util.function.BiFunction;
 import java.util.function.Consumer;

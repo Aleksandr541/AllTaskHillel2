@@ -1,4 +1,4 @@
-package org.example.capp.menu;
+package work3.menu;
 
 import java.util.List;
 import java.util.Scanner;
